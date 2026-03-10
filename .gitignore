@@ -1,0 +1,52 @@
+# Dependencies
+
+node_modules/
+
+# Logs
+
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# Environment variables
+
+.env
+.env.*
+!.env.example
+
+# Build / cache
+
+dist/
+build/
+.cache/
+coverage/
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# IDE / Editor
+
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node runtime
+
+.npm
+.npmrc
+.yarn-integrity
+
+# Temporary files
+
+tmp/
+temp/
+
+# Optional config local overrides
+
+config.local.json
+services.local.json
