@@ -8,7 +8,7 @@ Esta ferramenta permite iniciar diferentes partes do sistema (frontend, APIs ou 
 
 # 📌 Objetivo
 
-Em ambientes com múltiplos serviços (frontend, APIs, microserviços), iniciar manualmente cada projeto pode ser trabalhoso.
+Em ambientes com múltiplos serviços (frontend, APIs), iniciar manualmente cada projeto pode ser trabalhoso.
 
 O **Fiscolone Dev Launcher** resolve isso oferecendo:
 
@@ -16,6 +16,8 @@ O **Fiscolone Dev Launcher** resolve isso oferecendo:
 * menu interativo no terminal
 * logs organizados por serviço
 * melhor experiência para desenvolvedores
+
+ps: É necessário ter o clone dos seguintes repositórios no diretório: Documents\GitHub
 
 ---
 
