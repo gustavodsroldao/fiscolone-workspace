@@ -33,7 +33,7 @@ function run(command, cwd, name) {
     });
 
     processo.stderr.on("data", data => {
-        console.log(chalk.red(`[${name}]`), data.toString());
+        console.log(chalk.yellow(`[${name}]`), data.toString());
     });
 
     processo.on("error", err => {
