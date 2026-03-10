@@ -38,12 +38,14 @@ Serviços detectados:
 ── Fiscool ──
 ❯ API Fiscool
   Front Fiscool
-  Fiscool (Front + API)
+  Fiscool (Front + API Fiscool)
+  Fiscool (Front + API Fiscool + API Gestão Fiscal Integrada)
 
 ── Gestão Fiscal Integrada ──
-  API Tributone
-  Front Tributone
-  Tributone (Front + API)
+  API Gestão Fiscal Integrada
+  Front Gestão Fiscal Integrada
+  Gestão Fiscal Integrada (Front + API Gestão Fiscal Integrada)
+  Gestão Fiscal Integrada (Front + API Gestão Fiscal Integrada + API Fiscool) 
 
 ── Eco-sistema Completo ──
   Todos os serviços
